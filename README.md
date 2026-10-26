@@ -175,33 +175,41 @@ Click number <br>
 If you can't find your currency, click custom currency <br>
 <img width="1908" height="970" alt="Search for currency (2)" src="https://github.com/user-attachments/assets/811b0616-9bab-427a-a42a-b1602b514bbe" /> <br>
 Search for your currency, select it, and click apply <br>
-![Uploading Search for currency (3).png…]() <br>
+<img width="1908" height="970" alt="Search for currency (3)" src="https://github.com/user-attachments/assets/73e71c7b-62b4-4597-99ad-85686c84a3ec" /> <br>
+Repeat this step on the summary tab when you visit him in his front desk <br>
 
-- **Frohp** the Shopkeeper <br>
+## Frohp the Shopkeeper
+She help traveler to fulfill their item wish by holding traveler's wished item, calculate if they can buy it and if not, how much debt would the travelr will be in (basically a fancy wishlist) <br> 
 Can be found hopping around Frohp's Swamp Shop <br>
 <img width="287" height="296" alt="image" src="https://github.com/user-attachments/assets/ff561ef3-8bd0-4318-8cda-f2e167467fe7" />
 <img width="427" height="296" alt="image" src="https://github.com/user-attachments/assets/8ce0d680-94ce-4ef8-9da6-27d35407ba20" /> <br>
 <br>
 
-- **Rary** the Wise Rat <br>
+## Rary the Wise Rat
+She help traveler by keeping important notes in his library, I primarily use this to hold my watchlist and readlist <br>
 Can be found **NOT** chewing books in Rary's Library <br>
 <img width="338" height="356" alt="image" src="https://github.com/user-attachments/assets/1008ae29-d3b6-4853-a735-72738bf2a9b5" />
 <img width="336" height="356" alt="image" src="https://github.com/user-attachments/assets/2f93d3e4-e208-49ac-b6be-b02054569071" /> <br>
 <br>
 
-- **Piqy** the Swifty <br>
+## Piqy the Swifty
+She help traveler by holding quest for traveler to do <br>
+With her service, you can ask her how many quest is started, finished, pending, etc and wether its importancies is low or urgent <br>
 Can be found hanging in Quest Mail <br>
 <img width="341" height="347" alt="image" src="https://github.com/user-attachments/assets/d2ed61f0-70d8-4c3d-bac0-82051a8c8a6b" />
 <img width="304" height="347" alt="image" src="https://github.com/user-attachments/assets/84026428-7e71-41fd-bdaf-0da39bc8e7a4" /> <br>
 <br>
 
-- **Shick** the Observant <br>
+## Shick the Observant
+He analyse traveler's daily habit everyday for each month across 12-month period, he ranked which month you did the most intended habit and percentages each month <br>
+Traveer can ask him to include different/custom habit with maximum of 10 habits (he will forget more than that and break the code) <br>
 Can be found lurking near Daily Report <br>
 <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/fed2fc23-431b-47c7-aab3-8c000690d1e1" />
 <img width="421" height="409" alt="image" src="https://github.com/user-attachments/assets/750fb939-c6bf-46f3-bca4-72eb0bdad6ce" /> <br>
 <br>
 
-- **Ract** the Blue Collar <br>
+## Ract the Blue Collar
+Similiar with Piqy's service, Ract help traveler by tracking projects, traveler can use this to hold future project idea or analyse how much project is finished, started, etc <br>
 Can be found thinkering in Ract's Factory <br>
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
