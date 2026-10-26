@@ -2,11 +2,7 @@
 An RPG game where you visit villagers, report your daily live such as doing real-life quest that you make and finished, reporting looted and spent gold, and much more!
 
 ## What you can do
-- Customize your own Traveler
-- Analyze your talent and how each skill varies in expertise
-- Track your daily adventure
-- Accept and create a quest
-- Track projects
+- Analyze your talent (Wizzy's service)
 
 
 
