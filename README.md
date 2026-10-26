@@ -51,5 +51,8 @@ Click their face to see their tutorial <br>
 [<img width="200" height="200" alt="6" src="https://github.com/user-attachments/assets/1029fb41-0e5b-4087-8dd8-58925c582ef9" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Piqy%20the%20Swifty.md) <br>
 <br>
 
-- Shick <br>
+- Rary <br>
 [<img width="200" height="200" alt="5" src="https://github.com/user-attachments/assets/debf78fa-ed3b-4469-9621-bfdeca3fbcee" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Ract%20the%20Blue%20Collar.md) <br>
+
+- Ract <br>
+[<img width="500" height="500" alt="Ract" src="https://github.com/user-attachments/assets/497bb020-9e9f-4403-af6d-6087843934d2" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Ract%20the%20Blue%20Collar.md) <br>
