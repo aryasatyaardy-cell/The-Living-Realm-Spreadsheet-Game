@@ -23,7 +23,7 @@ Here, Travelers can **visit villagers** in their structure **by clicking the nam
 and **clic**king **the pop up to enter** <br>
 <img width="376" height="105" alt="image" src="https://github.com/user-attachments/assets/0bc8c65f-b8f1-4b55-978c-ecb11aa20708" />
 
-## Villagers
+## Villagers (and where to find them)
 There are 8 villagers each with their own distinct role to help travelers in need
 
 - **Wizzy** the talented wizard <br>
@@ -73,3 +73,58 @@ Can be found thinkering in Ract's Factory <br>
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
 <br>
+
+## What does the Villager do
+- Wizzy
+- Orlo
+- Goober
+- Frohp
+- Rary
+- Piqy
+- Shick
+- Ract
+
+### Wizzy
+He help traveler by managing and analysing their talent <br>
+There are 6 types of talent with 5 expertise level <br>
+
+6 Types of talent:
+- **Physical** <br>
+This talent involve the body's strength, swiftness and endurance <br>
+As Wizzy says, "How can you cast spells if you can't lift your wand?" <br>
+
+- **Artistic** <br>
+This talent expect you to express your creativity and imagination <br>
+As Wizzy says, "What limits you is not magic itself!, but the way you use it" <br>
+
+- **Mental** <br>
+This talent require reasoning, memory, strategy, and problem-solving <br>
+As Wizzy says, "Raw power need to be controlled from within"
+
+- **Special** <br>
+This talent wants you to be niche, unusual and specialized skill tailored to you <br>
+As Wizzy says, "Sometimes, the strangest trick is the strongest" <br>
+
+- **Life** <br>
+This talent involve practical skill needed to thrive in everyday life <br>
+As Wizzy says, "The finest of all still need to cook" <br>
+
+- **Academic** <br>
+This talent involve knowledge gained trough studying and research, wether its self-taught or academically <br>
+As Wizzy says, "Behind every spell, there are knowledge"
+
+**Talent Example** <br>
+This examples is merely examples to guide you trough your journey, not rules carved in stones <br>
+
+| **Physical** | **Artistic** | **Mental** | **Special** | **Life** | **Academic** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Weightlifting | Drawing | Patience | Cardistry | Cooking | Mathematics |
+| Running | Painting | Problem-solving | Robotics | Cleaning | Psychology |
+| Fast walking | Pottery | Critical thinking | Morse code | Communication | Chemistry |
+| Swimming | Poetry | Memory | Magic tricks | Organization | Biology |
+| Badminton | Writing | Discipline | Sign language | Financial literacy | History |
+| Calisthenics | Singing | Emotional regulation | Blacksmithing | First aid | Physics |
+| Breath-holding | Dancing | Bravery | Origami | Leadership | Geography |
+| Stamina | Makeup | Creativity | Juggling | Negotiation | Philosophy |
+| Jumping | Room decor | Virtue | Archery | Planning | Music theory |
+| Parkour | Tie-dyeing | Patience | Illusion | Public speaking | Combined sciences |
