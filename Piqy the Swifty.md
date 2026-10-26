@@ -1,5 +1,6 @@
 # Piqy the Swifty
-She help traveler by holding quest for traveler to do <br>
+She help traveler by holding quest for traveler to do (A little birdie says she's a big fan of Snailor Swift) <br>
+
 With her service, you can ask her how many quest is started, finished, pending, etc and wether its importancies is low or urgent <br>
 Can be found hanging in Quest Mail <br>
 <img width="341" height="347" alt="image" src="https://github.com/user-attachments/assets/d2ed61f0-70d8-4c3d-bac0-82051a8c8a6b" />
