@@ -26,17 +26,7 @@ and **clic**king **the pop up to enter** <br>
 ## Villagers (and where to find them)
 There are 8 villagers each with their own distinct role to help travelers in need <br>
 
-- **Wizzy** the talented wizard <br>
 
-
-- **Orlo** the Timekeeper <br>
-
-
-- **Goober** the Gold Hoarder <br>
-Can be found working at Gobber's Bank <br>
-<img width="515" height="450" alt="image" src="https://github.com/user-attachments/assets/ddf075dc-7bd1-4fda-807b-2851092203aa" />
-<img width="425" height="450" alt="image" src="https://github.com/user-attachments/assets/251ed0fa-76a7-4f3e-9ea7-7f740987aebc" /> <br>
-<br>
 
 - **Frohp** the Shopkeeper <br>
 Can be found hopping around Frohp's Swamp Shop <br>
@@ -149,19 +139,16 @@ Visit Wizzy <br>
 <img width="1908" height="970" alt="Visit Wizy" src="https://github.com/user-attachments/assets/dac197a0-01be-4adc-bebb-eeddb7fa8ab6" /> <br>
 
 Open your talent <br>
-<img width="368" height="132" alt="image" src="https://github.com/user-attachments/assets/b632edab-b38b-414e-b8b2-d0d0c87243b0" /> <br>
+<img width="1908" height="970" alt="See talent" src="https://github.com/user-attachments/assets/b647f042-ad66-46cc-bb12-3ee86ca4c72d" /> <br>
 
-Fill the talent rune<br>
-<img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/8c857dc7-0c22-40eb-9b56-0e4ac581a08a" /> <br>
+Add title and description by hovering our cursor on top of the talent name <br>
+<img width="1908" height="970" alt="Add title and notes" src="https://github.com/user-attachments/assets/f93586df-c713-4e43-8548-dd473f97a6d9" /> <br>
 
-For example <br>
-<img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/b4c59acc-c0a4-460b-a9d4-8e05502fb6da" /> <br>
+Pick status <br>
+<img width="1908" height="970" alt="Pick Status and Type" src="https://github.com/user-attachments/assets/ab96d4fb-d4fb-47c9-94fd-4a1c016bf4c7" /> <br>
 
-Additionally you can add desciption of the talent by hovering your cursor above the talent's name
-<img width="444" height="137" alt="image" src="https://github.com/user-attachments/assets/c6673d8d-8230-4685-809c-15828f603b63" /> <br>
-
-Like this <br>
-<img width="444" height="137" alt="image" src="https://github.com/user-attachments/assets/d2d323ab-d39d-4c50-ad7b-4b87ef4428e9" /> <br>
+Choose your expertise <br>
+<img width="1908" height="970" alt="Choose the expertise" src="https://github.com/user-attachments/assets/81020de3-fd3f-4a14-baf5-b3a978e099ba" /> <br>
 
 Here's mine <br>
 <img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/4b431bea-b761-404c-82cd-3bf3f50450b0" /> <br>
@@ -176,7 +163,7 @@ You'll see the self explanatory tables, GL! <br>
 
 
 ## Orlo the Timekeeper 
-He manage traveler's important event on hiscalendar <br>
+He manage traveler's important event on his calendar <br>
 Can be found on top of Orlo's Hourglass <br>
 <img width="387" height="548" alt="Screenshot from 2026-10-26 07-31-32" src="https://github.com/user-attachments/assets/e056264a-6aa8-4ecb-ba12-6158b6d0549e" />
 <img width="422" height="548" alt="Screenshot from 2026-10-26 07-31-52" src="https://github.com/user-attachments/assets/343aeecc-4111-4b28-9b48-543a294f27f6" /><br>
@@ -190,3 +177,10 @@ Then Orlo shows you calendar that you can personalize, change the color, mark da
 
 Like this <br>
 <img width="281" height="231" alt="image" src="https://github.com/user-attachments/assets/2a421d4c-9e26-4804-bebf-22ef68f2b018" /> <br>
+
+## Goober the Gold Hoarder
+He help travelers by managing their gold expenses <br>
+Can be found working at Gobber's Bank <br>
+<img width="515" height="450" alt="image" src="https://github.com/user-attachments/assets/ddf075dc-7bd1-4fda-807b-2851092203aa" />
+<img width="425" height="450" alt="image" src="https://github.com/user-attachments/assets/251ed0fa-76a7-4f3e-9ea7-7f740987aebc" /> <br>
+<br>
