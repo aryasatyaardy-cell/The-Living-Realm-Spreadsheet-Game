@@ -1,5 +1,6 @@
 # Goober the Gold Hoarder
 He help travelers by managing their gold expenses <br>
+
 Can be found working at Gobber's Bank <br>
 <img width="515" height="450" alt="image" src="https://github.com/user-attachments/assets/ddf075dc-7bd1-4fda-807b-2851092203aa" />
 <img width="425" height="450" alt="image" src="https://github.com/user-attachments/assets/251ed0fa-76a7-4f3e-9ea7-7f740987aebc" /> <br>
