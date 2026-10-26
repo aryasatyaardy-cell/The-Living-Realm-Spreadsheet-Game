@@ -26,7 +26,12 @@ and **clic**king **the pop up to enter** <br>
 ## Villagers
 There are 8 villagers each with their own distinct role to help travelers in need
 
-- Wizzy the talented wizard
+- Wizzy the talented wizard <br>
+Can be found in Wizzy's Magical Tower<br>
+<img width="467" height="563" alt="Screenshot from 2026-10-26 07-33-46" src="https://github.com/user-attachments/assets/054a095f-611b-4f55-b25e-480e4277ae6a" />
+<img width="268" height="563" alt="Screenshot from 2026-10-26 07-18-48" src="https://github.com/user-attachments/assets/bf251770-7a00-4275-a498-9c2bddfcb6b6" />
+
+
 - Orlo the Timekeeper
 - Goober the Gold Hoarder
 - Frohp the Shopkeeper
