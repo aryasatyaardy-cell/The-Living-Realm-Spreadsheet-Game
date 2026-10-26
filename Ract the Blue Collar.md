@@ -19,4 +19,14 @@ Set it's status (I use pending for project that I've planned but haven't started
 Put the link that goes to your project on the box so you can visit it easier <br>
 <img width="1908" height="970" alt="Habit (8)" src="https://github.com/user-attachments/assets/6ea48218-b882-4db6-841a-a266fedded54" /> <br>
 
+## How to ask him about your project
+Hover over this button that let you ask which project percentage you want <br>
+<img width="1908" height="970" alt="Habit (9)" src="https://github.com/user-attachments/assets/7d169445-c9b7-40a4-8ff3-be38425f7ca8" /> <br>
+
+Choose the percentage <br>
+<img width="1908" height="970" alt="Habit (10)" src="https://github.com/user-attachments/assets/4b5715ff-d393-4989-b5fe-2b12d2b7c2d3" /> <br>
+
+The number will get updated immediately (idk how to spell it ik) showing you how many project in this percentage you have <br>
+<img width="1908" height="970" alt="Habit (11)" src="https://github.com/user-attachments/assets/67edc34f-0525-4bb9-973c-3638c4cc9fcd" /> <br>
+
 [Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
