@@ -75,7 +75,6 @@ Can be found thinkering in Ract's Factory <br>
 <br>
 
 ## What does the Villager do
-- Wizzy
 - Orlo
 - Goober
 - Frohp
@@ -88,28 +87,28 @@ Can be found thinkering in Ract's Factory <br>
 He help traveler by managing and analysing their talent <br>
 There are 6 types of talent with 5 expertise level <br>
 
-6 Types of talent:
-- **Physical** <br>
+**6 Types of talent:**
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/6b74292e-a5f6-4b0c-8e6e-3cae2a0f9dc6" /> <br>
 This talent involve the body's strength, swiftness and endurance <br>
 As Wizzy says, "How can you cast spells if you can't lift your wand?" <br>
 
-- **Artistic** <br>
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/9cb99068-624c-47d1-a6d8-8abec604b434" /> <br>
 This talent expect you to express your creativity and imagination <br>
 As Wizzy says, "What limits you is not magic itself!, but the way you use it" <br>
 
-- **Mental** <br>
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/94a89cf4-fd44-472e-8daf-8d61f747309f" /> <br>
 This talent require reasoning, memory, strategy, and problem-solving <br>
 As Wizzy says, "Raw power need to be controlled from within"
 
-- **Special** <br>
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/5277ebc1-4d6c-4ee7-b87d-bc2e0a191f61" /> <br>
 This talent wants you to be niche, unusual and specialized skill tailored to you <br>
 As Wizzy says, "Sometimes, the strangest trick is the strongest" <br>
 
-- **Life** <br>
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/fcf97d42-eac4-4be5-80dc-ef7494b3ea18" /> <br>
 This talent involve practical skill needed to thrive in everyday life <br>
 As Wizzy says, "The finest of all still need to cook" <br>
 
-- **Academic** <br>
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/458e02a0-93b9-4d01-9f8c-a80064ab8b9c" /> <br>
 This talent involve knowledge gained trough studying and research, wether its self-taught or academically <br>
 As Wizzy says, "Behind every spell, there are knowledge"
 
@@ -128,3 +127,10 @@ This examples is merely examples to guide you trough your journey, not rules car
 | Stamina | Makeup | Creativity | Juggling | Negotiation | Philosophy |
 | Jumping | Room decor | Virtue | Archery | Planning | Music theory |
 | Parkour | Tie-dyeing | Patience | Illusion | Public speaking | Combined sciences |
+
+**5 Levels of Expertise**
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/07d7b03d-0949-40e5-9eb6-c235160de18a" />
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/e8a69bd5-b3f6-49cc-a0f4-431c3892aa95" />
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/10bfc505-24bb-4979-8277-6918cc0a2ce6" />
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/29d5ae7d-1d78-41ce-9117-31e774c5c5e8" />
+- <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/b25a728d-6f55-48fa-baf6-0573f135cace" />
