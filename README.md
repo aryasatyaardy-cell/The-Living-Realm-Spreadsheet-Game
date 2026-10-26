@@ -75,7 +75,6 @@ Can be found thinkering in Ract's Factory <br>
 <br>
 
 ## What does the Villager do
-- Orlo
 - Goober
 - Frohp
 - Rary
@@ -83,7 +82,7 @@ Can be found thinkering in Ract's Factory <br>
 - Shick
 - Ract
 
-### Wizzy
+## Wizzy
 He help traveler by managing and analysing their talent <br>
 There are 6 types of talent with 5 expertise level <br>
 
@@ -170,3 +169,15 @@ Visit Wizzy <br>
 <img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
 
 You'll see the self explanatory tables, GL! <br>
+<img width="1666" height="695" alt="image" src="https://github.com/user-attachments/assets/9ee70aa8-c632-4027-a17d-0ca34d54976f" /> <br>
+
+
+## Orlo
+Visit Orlo <br>
+<img width="363" height="229" alt="image" src="https://github.com/user-attachments/assets/5625a1c2-b872-4f22-86c3-4859cfdee9c4" /> <br>
+
+Then Orlo shows you calendar that you can personalize, change the color, mark dates, whatever you want to do to a calendar tbh <br>
+<img width="1920" height="696" alt="image" src="https://github.com/user-attachments/assets/8399f5b3-0a77-4b1f-a07d-0d0e98b4825f" /> <br>
+
+Like this <br>
+<img width="281" height="231" alt="image" src="https://github.com/user-attachments/assets/2a421d4c-9e26-4804-bebf-22ef68f2b018" /> <br>
