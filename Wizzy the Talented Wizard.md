@@ -73,6 +73,7 @@ Visit Wizzy <br>
 <img width="1908" height="970" alt="Visit Wizy" src="https://github.com/user-attachments/assets/dac197a0-01be-4adc-bebb-eeddb7fa8ab6" /> <br>
 
 Open your talent <br>
+Do expect error because you don't have every talent variant yet <br>
 <img width="1908" height="970" alt="See talent" src="https://github.com/user-attachments/assets/b647f042-ad66-46cc-bb12-3ee86ca4c72d" /> <br>
 
 Add title and description by hovering our cursor on top of the talent name <br>
