@@ -12,7 +12,7 @@ An RPG game where you visit villagers, report your daily life, customize your av
 
 ## Tutorial
 A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village <br>
-### Follow this link to that village <br>
+### Follow this link if you're a newcomers <br>
 https://docs.google.com/spreadsheets/d/1LW2s4WVMXVvzl2_L3-PlMxWsnM0G1zYoqsWt15QVgsI/edit?usp=sharing <br>
 
 ### The Game's link (press the pro tip)
