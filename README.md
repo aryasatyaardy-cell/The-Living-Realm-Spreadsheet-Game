@@ -56,3 +56,6 @@ Click their face to see their tutorial <br>
 
 - Ract <br>
 [<img width="200" height="200" alt="Ract" src="https://github.com/user-attachments/assets/497bb020-9e9f-4403-af6d-6087843934d2" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Ract%20the%20Blue%20Collar.md) <br>
+
+- Lary <br>
+[<img width="420" height="384" alt="image" src="https://github.com/user-attachments/assets/4abc1275-d86b-42dd-bb39-1185695de2bf" />]
