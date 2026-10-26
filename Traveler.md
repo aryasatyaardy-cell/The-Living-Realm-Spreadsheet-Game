@@ -21,3 +21,10 @@ Go to preset selection by pressing the gear icon and press the pop up <br>
 Select your desired preset and copy it by pressing `CTRL + C` <br>
 And go back to your card by pressing this button and pressing the pop up <br>
 <img width="1908" height="970" alt="Habit (17)" src="https://github.com/user-attachments/assets/1408c08a-30dd-4617-a2ea-0969211318f8" /> <br>
+
+Paste the copied preset wherever you want (I reccomend within the 16x16 frame) <br>
+BE CREATIVE! <br>
+Also you don't have to use the presets, you can just color it in anyhow you want <br>
+<img width="1919" height="1017" alt="Screenshot from 2026-10-26 23-21-37" src="https://github.com/user-attachments/assets/832e93a2-7d53-4067-abb9-25a9dd2298c8" /> <br>
+<img width="1919" height="1017" alt="Screenshot from 2026-10-26 23-22-24" src="https://github.com/user-attachments/assets/229bb731-f745-4704-99eb-f852521d3217" /> <br>
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6aaa4c4d-3795-4449-922d-ac95b6c11482" /> <br>
