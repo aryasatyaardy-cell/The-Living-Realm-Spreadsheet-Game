@@ -1,5 +1,6 @@
 # Frohp the Shopkeeper
 She help traveler to fulfill their item wish by holding traveler's wished item, calculate if they can buy it and if not, how much debt would the travelr will be in (basically a fancy wishlist) <br> 
+
 Can be found hopping around Frohp's Swamp Shop <br>
 <img width="287" height="296" alt="image" src="https://github.com/user-attachments/assets/ff561ef3-8bd0-4318-8cda-f2e167467fe7" />
 <img width="427" height="296" alt="image" src="https://github.com/user-attachments/assets/8ce0d680-94ce-4ef8-9da6-27d35407ba20" /> <br>
