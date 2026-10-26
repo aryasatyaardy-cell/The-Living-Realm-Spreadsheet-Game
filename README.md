@@ -21,6 +21,9 @@ Here, Travelers can **visit villagers** in their structure **by clicking the nam
 
 and **clic**king **the pop up to enter** <br>
 <img width="376" height="105" alt="image" src="https://github.com/user-attachments/assets/0bc8c65f-b8f1-4b55-978c-ecb11aa20708" />
+<br>
+
+You can follow the tutorial in this repository or following this tutorial link bellow <br>
 
 ## Villagers
 Click their face to see their tutorial <br>
