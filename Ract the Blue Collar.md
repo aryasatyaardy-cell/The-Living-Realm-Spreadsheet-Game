@@ -38,4 +38,12 @@ Block this cells (line 19-34) and copy it by pressing `CTRL + C` on your keyboar
 Add one more line by pressing this button set to one line <br>
 <img width="1908" height="970" alt="Habit (13)" src="https://github.com/user-attachments/assets/f5a9d9f4-26b6-4b73-ad7a-9cf5d4b085d8" /> <br>
 
+Select that new line <br>
+<img width="1908" height="970" alt="Habit (14)" src="https://github.com/user-attachments/assets/eb7e9e41-9666-4c6c-be1b-d32b110da72d" /> <br>
+
+Paste those boxes by pressing `CTRL + V` and then you get new boxes!<br>
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/593b407a-592d-4c6f-a23f-95470a6e8b9a" /> <br>
+
+Repeat as many as you want... not like you have that much projects do you? <br>
+
 [Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
