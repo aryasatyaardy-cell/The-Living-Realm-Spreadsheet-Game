@@ -93,7 +93,7 @@ You use this talent every now and then, and can use it on command reliably in ac
 - <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/7714b06f-22f7-4f23-9c59-dc6eb5bc0bbd" /> <br>
 This talent got rusty after not being used for a period of time or the inability to perform this talent for any reason <br>
 
-## How to use his service
+### How to use Wizzy's service
 ### How to add talents <br>
 Visit Wizzy <br>
 <img width="1908" height="970" alt="Visit Wizy" src="https://github.com/user-attachments/assets/dac197a0-01be-4adc-bebb-eeddb7fa8ab6" /> <br>
@@ -129,7 +129,7 @@ Can be found on top of Orlo's Hourglass <br>
 <img width="422" height="548" alt="Screenshot from 2026-10-26 07-31-52" src="https://github.com/user-attachments/assets/343aeecc-4111-4b28-9b48-543a294f27f6" /><br>
 <br>
 
-## How to use his service
+### How to use Orlo's service
 Visit Orlo <br>
 <img width="1908" height="970" alt="Visit Orlo" src="https://github.com/user-attachments/assets/a9dfa4e1-255b-4190-b77a-3d10de51b18c" /> <br>
 
@@ -146,7 +146,7 @@ Can be found working at Gobber's Bank <br>
 <img width="425" height="450" alt="image" src="https://github.com/user-attachments/assets/251ed0fa-76a7-4f3e-9ea7-7f740987aebc" /> <br>
 <br>
 
-## How to use his service
+### How to use Goober's service
 Visit Goober <br>
 <img width="1908" height="970" alt="Visit Goober" src="https://github.com/user-attachments/assets/c75260fa-a09d-41df-89e1-a5a427b09820" /> <br>
 
@@ -185,12 +185,20 @@ Can be found hopping around Frohp's Swamp Shop <br>
 <img width="427" height="296" alt="image" src="https://github.com/user-attachments/assets/8ce0d680-94ce-4ef8-9da6-27d35407ba20" /> <br>
 <br>
 
+### How to use Frohp's service
+Visit her dwelling in the lake (you might get wet) <br>
+<img width="1908" height="970" alt="Visit Frohp" src="https://github.com/user-attachments/assets/0abffbba-33ab-48df-bcb0-61111dcb7215" /> <br>
+
 ## Rary the Wise Rat
 She help traveler by keeping important notes in his library, I primarily use this to hold my watchlist and readlist <br>
 Can be found **NOT** chewing books in Rary's Library <br>
 <img width="338" height="356" alt="image" src="https://github.com/user-attachments/assets/1008ae29-d3b6-4853-a735-72738bf2a9b5" />
 <img width="336" height="356" alt="image" src="https://github.com/user-attachments/assets/2f93d3e4-e208-49ac-b6be-b02054569071" /> <br>
 <br>
+
+### How to use Rary's service
+Visit her library (must stay quiet at all times!) <br>
+<img width="1908" height="970" alt="Visit Rary" src="https://github.com/user-attachments/assets/ed4e5472-352d-401e-9412-909ac3f5d8d4" /> <br>
 
 ## Piqy the Swifty
 She help traveler by holding quest for traveler to do <br>
@@ -200,6 +208,10 @@ Can be found hanging in Quest Mail <br>
 <img width="304" height="347" alt="image" src="https://github.com/user-attachments/assets/84026428-7e71-41fd-bdaf-0da39bc8e7a4" /> <br>
 <br>
 
+### How to use Piqy's service
+Visit her hangout place near the mail quest post <br>
+<img width="1908" height="970" alt="Visit Piqy" src="https://github.com/user-attachments/assets/b2ebb23a-2fe1-416a-9438-4c447fcb7511" /> <br>
+
 ## Shick the Observant
 He analyse traveler's daily habit everyday for each month across 12-month period, he ranked which month you did the most intended habit and percentages each month <br>
 Traveer can ask him to include different/custom habit with maximum of 10 habits (he will forget more than that and break the code) <br>
@@ -208,9 +220,17 @@ Can be found lurking near Daily Report <br>
 <img width="421" height="409" alt="image" src="https://github.com/user-attachments/assets/750fb939-c6bf-46f3-bca4-72eb0bdad6ce" /> <br>
 <br>
 
+### How to use Shick's service
+Visit the place where you expect aquatic animal themost (behind the daily report board obvi) <br>
+<img width="1908" height="970" alt="Visit Shick" src="https://github.com/user-attachments/assets/96e9ff1e-709e-420b-bd81-ceff75ed60e3" /> <br>
+
 ## Ract the Blue Collar
 Similiar with Piqy's service, Ract help traveler by tracking projects, traveler can use this to hold future project idea or analyse how much project is finished, started, etc <br>
 Can be found thinkering in Ract's Factory <br>
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
 <br>
+
+### How to use Ract's service
+Visit his cave (the factory) and scream to get his attention <br>
+<img width="1908" height="970" alt="Visit Ract" src="https://github.com/user-attachments/assets/f08e7f1c-882f-4449-a6d2-58331d0b5a8a" /> <br>
