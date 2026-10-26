@@ -146,7 +146,7 @@ You use this talent every now and then, and can use it on command reliably in ac
 - <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/7714b06f-22f7-4f23-9c59-dc6eb5bc0bbd" /> <br>
 This talent got rusty after not being used for a period of time or the inability to perform this talent for any reason <br>
 
-**How to add talents** <br>
+### How to add talents <br>
 Visit Wizzy <br>
 <img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
 
@@ -165,7 +165,7 @@ Additionally you can add desciption of the talent by hovering your cursor above 
 Like this <br>
 <img width="444" height="137" alt="image" src="https://github.com/user-attachments/assets/d2d323ab-d39d-4c50-ad7b-4b87ef4428e9" /> <br>
 
-**How to get Wizzy to analyze your talent**
+### How to get Wizzy to analyze your talent 
 Visit Wizzy <br>
 <img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
 
