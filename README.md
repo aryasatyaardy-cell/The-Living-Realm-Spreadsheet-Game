@@ -166,6 +166,8 @@ Choose the transaction type, is it in cash or digital transatcion? <br>
 <img width="1908" height="970" alt="Add nominal" src="https://github.com/user-attachments/assets/73ce6ec8-3e21-4d72-858c-32ded7c852b0" /> <br>
 
 ### If your currency doesn't match, follow this steps
+In his vault, press `CTRL + A` <br>
+
 
 - **Frohp** the Shopkeeper <br>
 Can be found hopping around Frohp's Swamp Shop <br>
