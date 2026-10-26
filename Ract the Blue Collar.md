@@ -10,4 +10,13 @@ Can be found thinkering in Ract's Factory <br>
 Visit his cave (the factory) and scream to get his attention <br>
 <img width="1908" height="970" alt="Visit Ract" src="https://github.com/user-attachments/assets/f08e7f1c-882f-4449-a6d2-58331d0b5a8a" /> <br>
 
+To add project, you can change the box's name to your project <br>
+<img width="1908" height="970" alt="Habit (6)" src="https://github.com/user-attachments/assets/030602ee-a535-42a1-881a-4ceff5cfa3b3" /> <br>
+
+Set it's status (I use pending for project that I've planned but haven't started yet) <br>
+<img width="1908" height="970" alt="Habit (7)" src="https://github.com/user-attachments/assets/29dd4e27-ba01-43c8-a2af-5dbc0a0b66de" /> <br>
+
+Put the link that goes to your project on the box so you can visit it easier <br>
+<img width="1908" height="970" alt="Habit (8)" src="https://github.com/user-attachments/assets/6ea48218-b882-4db6-841a-a266fedded54" /> <br>
+
 [Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
