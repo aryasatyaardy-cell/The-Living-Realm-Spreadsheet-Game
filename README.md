@@ -1,4 +1,4 @@
-# The-Living-Realm-Spreadsheet-Game
+<img width="1908" height="970" alt="Habit" src="https://github.com/user-attachments/assets/9144b0d9-9ebe-41d3-9810-bde6651dbc16" /><img width="1908" height="970" alt="Habit" src="https://github.com/user-attachments/assets/521b0a9c-482f-45ac-8f9f-ece5dae17575" /># The-Living-Realm-Spreadsheet-Game
 An RPG game where you visit villagers, report your daily live such as doing real-life quest that you make and finished, reporting looted and spent gold, and much more!
 
 ## What you can do
@@ -261,6 +261,15 @@ Can be found lurking near Daily Report <br>
 ### How to use Shick's service
 Visit the place where you expect aquatic animal themost (behind the daily report board obvi) <br>
 <img width="1908" height="970" alt="Visit Shick" src="https://github.com/user-attachments/assets/96e9ff1e-709e-420b-bd81-ceff75ed60e3" /> <br>
+
+Here you can designate 10 habits to keep up everyday for 12-month, you change what habit it is by changing it on this table <br>
+<img width="1908" height="970" alt="Habit" src="https://github.com/user-attachments/assets/9a84aa20-8a14-45e7-b153-b715e784ec56" /> <br>
+
+To list today's activity, go to the desired month (it's divided per 3-month so traveler doesn't have to scroll down so much) <br>
+<img width="1908" height="970" alt="Habit (2)" src="https://github.com/user-attachments/assets/c62479e5-4d1e-4d72-aedb-3fe35ec56993" /> <br>
+
+The habit's name will change automatically across all month if you change the table on Shick's summary <br>
+<img width="1908" height="970" alt="Habit (3)" src="https://github.com/user-attachments/assets/e0ebe15f-dbbd-4bee-895a-d3601e26f001" /> <br>
 
 ## Ract the Blue Collar
 Similiar with Piqy's service, Ract help traveler by tracking projects, traveler can use this to hold future project idea or analyse how much project is finished, started, etc <br>
