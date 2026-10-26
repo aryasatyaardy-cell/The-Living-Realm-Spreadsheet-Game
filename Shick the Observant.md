@@ -1,6 +1,8 @@
 # Shick the Observant
 He analyse traveler's daily habit everyday for each month across 12-month period, he ranked which month you did the most intended habit and percentages each month <br>
+
 Traveer can ask him to include different/custom habit with maximum of 10 habits (he will forget more than that and break the code) <br>
+
 Can be found lurking near Daily Report <br>
 <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/fed2fc23-431b-47c7-aab3-8c000690d1e1" />
 <img width="421" height="409" alt="image" src="https://github.com/user-attachments/assets/750fb939-c6bf-46f3-bca4-72eb0bdad6ce" /> <br>
