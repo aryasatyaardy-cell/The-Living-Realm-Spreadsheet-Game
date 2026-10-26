@@ -58,4 +58,4 @@ Click their face to see their tutorial <br>
 [<img width="200" height="200" alt="Ract" src="https://github.com/user-attachments/assets/497bb020-9e9f-4403-af6d-6087843934d2" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/f22134145ee53f92c8ea3ee92bdac91fc39ff61e/Ract%20the%20Blue%20Collar.md) <br>
 
 - Lary <br>
-[<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4abc1275-d86b-42dd-bb39-1185695de2bf" />](=IF(Play?!AD23="Yes.",(HYPERLINK("#gid=1682078832", "Play")),(HYPERLINK("#gid=1581869224", "Play"))))
+[<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4abc1275-d86b-42dd-bb39-1185695de2bf" />](https://docs.google.com/spreadsheets/d/1LW2s4WVMXVvzl2_L3-PlMxWsnM0G1zYoqsWt15QVgsI/edit?usp=sharing) <br>
