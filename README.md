@@ -59,13 +59,17 @@ Can be found **NOT** chewing books in Rary's Library <br>
 - **Piqy** the Swifty <br>
 Can be found hanging in Quest Mail <br>
 <img width="341" height="347" alt="image" src="https://github.com/user-attachments/assets/d2ed61f0-70d8-4c3d-bac0-82051a8c8a6b" />
-<img width="108" height="103" alt="image" src="https://github.com/user-attachments/assets/5c163281-2448-42e6-a93b-1779452ba40b" /> <br>
+<img width="304" height="347" alt="image" src="https://github.com/user-attachments/assets/84026428-7e71-41fd-bdaf-0da39bc8e7a4" /> <br>
 <br>
 
 - **Shick** the Observant <br>
 Can be found lurking near Daily Report <br>
-<br>
+<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/fed2fc23-431b-47c7-aab3-8c000690d1e1" />
+<img width="421" height="409" alt="image" src="https://github.com/user-attachments/assets/750fb939-c6bf-46f3-bca4-72eb0bdad6ce" /> <br>
 <br>
 
 - **Ract** the Blue Collar <br>
 Can be found thinkering in Ract's Factory <br>
+<img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
+<img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
+<br>
