@@ -15,12 +15,19 @@ A thousand years ago, a traveler who needed help to rebuild their life visited t
 
 ## Villagers
 - [Wizzy](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Wizzy%20the%20Talented%20Wizard.md)
+<img width="200" height="200" alt="1" src="https://github.com/user-attachments/assets/3c81788e-032c-4732-a68f-e6f16181c097" /> <br>
 - [Orlo](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Orlo%20the%20Timekeeper.md)
+<img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/b05b3fe8-9bb4-4e08-8651-976a50cd76b3" /> <br>
 - [Goober](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Goober%20the%20Gold%20Hoarder.md)
+<img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/05d318b7-ce86-4eaf-947b-5cab6b5c28e9" /> <br>
 - [Frohp](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Frohp%20the%20Shopkeeper.md)
+<img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/07b412af-9d1e-4508-bd33-68fdb90ccf25" /> <br>
 - [Shick](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Shick%20the%20Observant.md)
+<img width="500" height="500" alt="7" src="https://github.com/user-attachments/assets/d5e9ed79-ffad-446e-9f87-d5fb83b973b9" /> <br>
 - [Piqy](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Piqy%20the%20Swifty.md)
+<img width="500" height="500" alt="6" src="https://github.com/user-attachments/assets/1029fb41-0e5b-4087-8dd8-58925c582ef9" /> <br>
 - [Ract](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Ract%20the%20Blue%20Collar.md)
+<img width="500" height="500" alt="5" src="https://github.com/user-attachments/assets/debf78fa-ed3b-4469-9621-bfdeca3fbcee" /> <br>
 
 ## Sheet Village
 A small village with humble citizens that work together to help the traveler <br>
