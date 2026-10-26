@@ -1,5 +1,6 @@
 # Ract the Blue Collar
 Similiar with Piqy's service, Ract help traveler by tracking projects, traveler can use this to hold future project idea or analyse how much project is finished, started, etc <br>
+
 Can be found thinkering in Ract's Factory <br>
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
 <img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
