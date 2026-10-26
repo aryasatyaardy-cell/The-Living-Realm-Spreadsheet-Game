@@ -15,7 +15,7 @@ A thousand years ago, a traveler who needed help to rebuild their life visited t
 
 ## Villagers
 - [Wizzy](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Wizzy%20the%20Talented%20Wizard.md) <br>
-<img width="200" height="200" alt="1" src="https://github.com/user-attachments/assets/3c81788e-032c-4732-a68f-e6f16181c097" /> <br>
+[<img width="200" height="200" alt="1" src="https://github.com/user-attachments/assets/3c81788e-032c-4732-a68f-e6f16181c097" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Wizzy%20the%20Talented%20Wizard.md) <br>
 - [Orlo](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Orlo%20the%20Timekeeper.md) <br>
 <img width="200" height="200" alt="2" src="https://github.com/user-attachments/assets/b05b3fe8-9bb4-4e08-8651-976a50cd76b3" /> <br>
 - [Goober](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Goober%20the%20Gold%20Hoarder.md) <br>
