@@ -12,6 +12,8 @@ An RPG game where you visit villagers, report your daily life, customize your av
 
 ## Tutorial
 A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village <br>
+Follow this link to that village <br>
+https://docs.google.com/spreadsheets/d/1LW2s4WVMXVvzl2_L3-PlMxWsnM0G1zYoqsWt15QVgsI/edit?usp=sharing <br>
 
 A small village with humble citizens that work together to help the traveler <br>
 <img width="1920" height="1141" alt="image" src="https://github.com/user-attachments/assets/05eb3ddf-b628-4cf7-b895-90c82f1cf86f" />
