@@ -27,16 +27,10 @@ and **clic**king **the pop up to enter** <br>
 There are 8 villagers each with their own distinct role to help travelers in need <br>
 
 - **Wizzy** the talented wizard <br>
-Can be found flying near Wizzy's Magical Tower <br>
-<img width="467" height="563" alt="Screenshot from 2026-10-26 07-33-46" src="https://github.com/user-attachments/assets/054a095f-611b-4f55-b25e-480e4277ae6a" />
-<img width="268" height="563" alt="Screenshot from 2026-10-26 07-18-48" src="https://github.com/user-attachments/assets/bf251770-7a00-4275-a498-9c2bddfcb6b6" /> <br>
-<br>
+
 
 - **Orlo** the Timekeeper <br>
-Can be found on top of Orlo's Hourglass <br>
-<img width="387" height="548" alt="Screenshot from 2026-10-26 07-31-32" src="https://github.com/user-attachments/assets/e056264a-6aa8-4ecb-ba12-6158b6d0549e" />
-<img width="422" height="548" alt="Screenshot from 2026-10-26 07-31-52" src="https://github.com/user-attachments/assets/343aeecc-4111-4b28-9b48-543a294f27f6" /><br>
-<br>
+
 
 - **Goober** the Gold Hoarder <br>
 Can be found working at Gobber's Bank <br>
@@ -82,8 +76,13 @@ Can be found thinkering in Ract's Factory <br>
 - Shick
 - Ract
 
-## Wizzy
+## Wizzy the Talented Wizard
 He help traveler by managing and analysing their talent <br>
+Can be found flying near Wizzy's Magical Tower <br>
+<img width="467" height="563" alt="Screenshot from 2026-10-26 07-33-46" src="https://github.com/user-attachments/assets/054a095f-611b-4f55-b25e-480e4277ae6a" />
+<img width="268" height="563" alt="Screenshot from 2026-10-26 07-18-48" src="https://github.com/user-attachments/assets/bf251770-7a00-4275-a498-9c2bddfcb6b6" /> <br>
+<br>
+
 There are 6 types of talent with 5 expertise level <br>
 
 **6 Types of talent:**
@@ -164,6 +163,10 @@ Additionally you can add desciption of the talent by hovering your cursor above 
 Like this <br>
 <img width="444" height="137" alt="image" src="https://github.com/user-attachments/assets/d2d323ab-d39d-4c50-ad7b-4b87ef4428e9" /> <br>
 
+Here's mine <br>
+<img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/4b431bea-b761-404c-82cd-3bf3f50450b0" /> <br>
+You can put talents anywhere BUT DON'T ADD MORE talent slot cus it will break the codes
+
 ### How to get Wizzy to analyze your talent 
 Visit Wizzy <br>
 <img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
@@ -172,7 +175,13 @@ You'll see the self explanatory tables, GL! <br>
 <img width="1666" height="695" alt="image" src="https://github.com/user-attachments/assets/9ee70aa8-c632-4027-a17d-0ca34d54976f" /> <br>
 
 
-## Orlo
+## Orlo the Timekeeper 
+He manage traveler's important event on hiscalendar <br>
+Can be found on top of Orlo's Hourglass <br>
+<img width="387" height="548" alt="Screenshot from 2026-10-26 07-31-32" src="https://github.com/user-attachments/assets/e056264a-6aa8-4ecb-ba12-6158b6d0549e" />
+<img width="422" height="548" alt="Screenshot from 2026-10-26 07-31-52" src="https://github.com/user-attachments/assets/343aeecc-4111-4b28-9b48-543a294f27f6" /><br>
+<br>
+
 Visit Orlo <br>
 <img width="363" height="229" alt="image" src="https://github.com/user-attachments/assets/5625a1c2-b872-4f22-86c3-4859cfdee9c4" /> <br>
 
