@@ -1,3 +1,5 @@
+[Go back to README]
+
 # Wizzy the Talented Wizard
 He help traveler by managing and analysing their talent <br>
 Meet him flying near Wizzy's Magical Tower <br>
