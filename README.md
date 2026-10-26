@@ -11,9 +11,19 @@ An RPG game where you visit villagers, report your daily life, customize your av
 - Project tracker to see how much in each percentage progress, finished, or pendingwith your money 
 
 ## Tutorial
-A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village
+A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village <br>
+
+A small village with humble citizens that work together to help the traveler <br>
+<img width="1920" height="1141" alt="image" src="https://github.com/user-attachments/assets/05eb3ddf-b628-4cf7-b895-90c82f1cf86f" />
+
+Here, Travelers can **visit villagers** in their structure **by clicking the name of the structure** <br>
+<img width="192" height="49" alt="image" src="https://github.com/user-attachments/assets/7bfe24ab-e6dc-43c1-846f-a948cc83580c" />
+
+and **clic**king **the pop up to enter** <br>
+<img width="376" height="105" alt="image" src="https://github.com/user-attachments/assets/0bc8c65f-b8f1-4b55-978c-ecb11aa20708" />
 
 ## Villagers
+Click their face to see their tutorial <br>
 - Wizzy <br>
 [<img width="200" height="200" alt="1" src="https://github.com/user-attachments/assets/3c81788e-032c-4732-a68f-e6f16181c097" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Wizzy%20the%20Talented%20Wizard.md) <br>
 - Orlo <br>
@@ -28,13 +38,3 @@ A thousand years ago, a traveler who needed help to rebuild their life visited t
 [<img width="200" height="200" alt="6" src="https://github.com/user-attachments/assets/1029fb41-0e5b-4087-8dd8-58925c582ef9" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Piqy%20the%20Swifty.md) <br>
 - Ract <br>
 [<img width="200" height="200" alt="5" src="https://github.com/user-attachments/assets/debf78fa-ed3b-4469-9621-bfdeca3fbcee" />](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/Ract%20the%20Blue%20Collar.md) <br>
-
-## Sheet Village
-A small village with humble citizens that work together to help the traveler <br>
-<img width="1920" height="1141" alt="image" src="https://github.com/user-attachments/assets/05eb3ddf-b628-4cf7-b895-90c82f1cf86f" />
-
-Here, Travelers can **visit villagers** in their structure **by clicking the name of the structure** <br>
-<img width="192" height="49" alt="image" src="https://github.com/user-attachments/assets/7bfe24ab-e6dc-43c1-846f-a948cc83580c" />
-
-and **clic**king **the pop up to enter** <br>
-<img width="376" height="105" alt="image" src="https://github.com/user-attachments/assets/0bc8c65f-b8f1-4b55-978c-ecb11aa20708" />
