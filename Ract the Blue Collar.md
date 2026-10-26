@@ -29,4 +29,13 @@ Choose the percentage <br>
 The number will get updated immediately (idk how to spell it ik) showing you how many project in this percentage you have <br>
 <img width="1908" height="970" alt="Habit (11)" src="https://github.com/user-attachments/assets/67edc34f-0525-4bb9-973c-3638c4cc9fcd" /> <br>
 
+## How to add more boxes
+Idk if I even need to put this in here but sure ig... <br>
+
+Block this cells (line 19-34) and copy it by pressing `CTRL + C` on your keyboard <br>
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/338f43b6-6b8e-4b52-b26a-2f22fea3c4b0" /> <br>
+
+Add one more line by pressing this button set to one line <br>
+<img width="1908" height="970" alt="Habit (13)" src="https://github.com/user-attachments/assets/f5a9d9f4-26b6-4b73-ad7a-9cf5d4b085d8" /> <br>
+
 [Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
