@@ -1,4 +1,4 @@
-# The-Living-Realm-Spreadsheet-Game
+<img width="1908" height="970" alt="Price" src="https://github.com/user-attachments/assets/55dc2e9c-4a94-4ed3-b99a-cffd0845179a" /><img width="1908" height="970" alt="Price" src="https://github.com/user-attachments/assets/27d9eae6-41f4-4b63-bb86-9f2e454b8cbb" /># The-Living-Realm-Spreadsheet-Game
 An RPG game where you visit villagers, report your daily live such as doing real-life quest that you make and finished, reporting looted and spent gold, and much more!
 
 ## What you can do
@@ -189,7 +189,28 @@ Can be found hopping around Frohp's Swamp Shop <br>
 Visit her dwelling in the lake (you might get wet) <br>
 <img width="1908" height="970" alt="Visit Frohp" src="https://github.com/user-attachments/assets/0abffbba-33ab-48df-bcb0-61111dcb7215" /> <br>
 
+Change the name off an empty slot to your desired item <br>
+<img width="1908" height="970" alt="Name item" src="https://github.com/user-attachments/assets/bd90ac31-77a5-48b0-be1f-fad9da452806" /> <br>
 
+Choose the urgency of acquiring this item <br>
+<img width="1908" height="970" alt="Urgency" src="https://github.com/user-attachments/assets/e7775531-6670-4613-8025-404db8c512a0" /> <br>
+
+Choose the price range <br>
+<img width="1908" height="970" alt="How cheap it is" src="https://github.com/user-attachments/assets/3f2f0fa0-6552-44b4-ae92-eba08c382451" /> <br>
+
+Enter the item's price in real world <br>
+<img width="1908" height="970" alt="Price" src="https://github.com/user-attachments/assets/61af9670-6774-4696-9985-22a24f87f319" /> <br>
+
+You don't have to do this, but you can add online link and decription of that item <br>
+<img width="1908" height="970" alt="Price (1)" src="https://github.com/user-attachments/assets/16b60633-0f36-43ae-84aa-703fbcb82f77" /> <br>
+
+### How to ask Frohp if you can purchase that item
+Tell her which item you wanted to buy by changing the name of the next item by typing `=`, pressing the name of the item and press `enter` on your keyboard <br>
+<img width="1908" height="970" alt="name (1)" src="https://github.com/user-attachments/assets/0ed3fa49-a9de-42a4-903f-ebc00faaea7f" /> <br>
+Tell her the price by typing `=` on the next item's price, pressing the item's price and press `enter` on your keyboard <br>
+<img width="1908" height="970" alt="Price" src="https://github.com/user-attachments/assets/d22e46f3-0439-43ed-b094-bddfb578c811" /> <br>
+She will understand if you did those step correctly and tell you wether you can afford it or you're to poor, if you're stupid enough to still buy it, she will tell you how big your debt is automatically <br>
+<img width="1908" height="970" alt="calc" src="https://github.com/user-attachments/assets/f86f5e74-e0fc-4ebf-8e94-64b2c595c911" /> <br>
 
 ## Rary the Wise Rat
 She help traveler by keeping important notes in his library, I primarily use this to hold my watchlist and readlist <br>
