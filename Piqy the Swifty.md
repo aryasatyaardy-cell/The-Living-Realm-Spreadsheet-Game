@@ -23,4 +23,11 @@ Set the urgency to finish this quest <br>
 Set the status of it <br>
 <img width="1908" height="970" alt="Title (3)" src="https://github.com/user-attachments/assets/0b3b4e6b-a527-469c-9a0d-752dcb231546" /> <br>
 
+## Ask her about your quest
+You can ask her how much quest you've started, finished, pending or listed <br>
+<img width="1908" height="970" alt="Habit (4)" src="https://github.com/user-attachments/assets/e3d18d81-ccd0-421e-be42-7dada5208f0e" />
+
+Also ask about quest with low, medium, high or even really urgent quest <br>
+<img width="1908" height="970" alt="Habit (5)" src="https://github.com/user-attachments/assets/2ec7ee98-ae8d-4fc0-817e-ca56c29bbe9a" />
+
 [Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
