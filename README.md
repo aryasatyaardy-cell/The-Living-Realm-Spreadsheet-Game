@@ -1,4 +1,4 @@
-<img width="1908" height="970" alt="Price" src="https://github.com/user-attachments/assets/55dc2e9c-4a94-4ed3-b99a-cffd0845179a" /><img width="1908" height="970" alt="Price" src="https://github.com/user-attachments/assets/27d9eae6-41f4-4b63-bb86-9f2e454b8cbb" /># The-Living-Realm-Spreadsheet-Game
+# The-Living-Realm-Spreadsheet-Game
 An RPG game where you visit villagers, report your daily live such as doing real-life quest that you make and finished, reporting looted and spent gold, and much more!
 
 ## What you can do
