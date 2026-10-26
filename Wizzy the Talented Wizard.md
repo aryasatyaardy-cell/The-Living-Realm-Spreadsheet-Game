@@ -1,5 +1,6 @@
 # Wizzy the Talented Wizard
 He help traveler by managing and analysing their talent <br>
+
 Meet him flying near Wizzy's Magical Tower <br>
 <img width="467" height="563" alt="Screenshot from 2026-10-26 07-33-46" src="https://github.com/user-attachments/assets/054a095f-611b-4f55-b25e-480e4277ae6a" />
 <img width="268" height="563" alt="Screenshot from 2026-10-26 07-18-48" src="https://github.com/user-attachments/assets/bf251770-7a00-4275-a498-9c2bddfcb6b6" /> <br>
