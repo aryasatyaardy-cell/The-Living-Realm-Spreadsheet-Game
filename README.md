@@ -146,7 +146,7 @@ This talent got rusty after not being used for a period of time or the inability
 
 ### How to add talents <br>
 Visit Wizzy <br>
-<img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
+<img width="1908" height="970" alt="Visit Wizy" src="https://github.com/user-attachments/assets/dac197a0-01be-4adc-bebb-eeddb7fa8ab6" /> <br>
 
 Open your talent <br>
 <img width="368" height="132" alt="image" src="https://github.com/user-attachments/assets/b632edab-b38b-414e-b8b2-d0d0c87243b0" /> <br>
@@ -169,7 +169,7 @@ You can put talents anywhere BUT DON'T ADD MORE talent slot cus it will break th
 
 ### How to get Wizzy to analyze your talent 
 Visit Wizzy <br>
-<img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
+<img width="1908" height="970" alt="Visit Wizy" src="https://github.com/user-attachments/assets/dac197a0-01be-4adc-bebb-eeddb7fa8ab6" /> <br>
 
 You'll see the self explanatory tables, GL! <br>
 <img width="1666" height="695" alt="image" src="https://github.com/user-attachments/assets/9ee70aa8-c632-4027-a17d-0ca34d54976f" /> <br>
@@ -183,7 +183,7 @@ Can be found on top of Orlo's Hourglass <br>
 <br>
 
 Visit Orlo <br>
-<img width="363" height="229" alt="image" src="https://github.com/user-attachments/assets/5625a1c2-b872-4f22-86c3-4859cfdee9c4" /> <br>
+<img width="1908" height="970" alt="Visit Orlo" src="https://github.com/user-attachments/assets/a9dfa4e1-255b-4190-b77a-3d10de51b18c" /> <br>
 
 Then Orlo shows you calendar that you can personalize, change the color, mark dates, whatever you want to do to a calendar tbh <br>
 <img width="1920" height="696" alt="image" src="https://github.com/user-attachments/assets/8399f5b3-0a77-4b1f-a07d-0d0e98b4825f" /> <br>
