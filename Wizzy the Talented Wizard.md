@@ -1,5 +1,3 @@
-[Go back to README]
-
 # Wizzy the Talented Wizard
 He help traveler by managing and analysing their talent <br>
 Meet him flying near Wizzy's Magical Tower <br>
@@ -96,4 +94,4 @@ Visit Wizzy <br>
 You'll see the self explanatory tables, GL! <br>
 <img width="1666" height="695" alt="image" src="https://github.com/user-attachments/assets/9ee70aa8-c632-4027-a17d-0ca34d54976f" /> <br>
 
-
+[Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
