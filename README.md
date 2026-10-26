@@ -146,3 +146,27 @@ You use this talent every now and then, and can use it on command reliably in ac
 - <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/7714b06f-22f7-4f23-9c59-dc6eb5bc0bbd" /> <br>
 This talent got rusty after not being used for a period of time or the inability to perform this talent for any reason <br>
 
+**How to add talents** <br>
+Visit Wizzy <br>
+<img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
+
+Open your talent <br>
+<img width="368" height="132" alt="image" src="https://github.com/user-attachments/assets/b632edab-b38b-414e-b8b2-d0d0c87243b0" /> <br>
+
+Fill the talent rune<br>
+<img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/8c857dc7-0c22-40eb-9b56-0e4ac581a08a" /> <br>
+
+For example <br>
+<img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/b4c59acc-c0a4-460b-a9d4-8e05502fb6da" /> <br>
+
+Additionally you can add desciption of the talent by hovering your cursor above the talent's name
+<img width="444" height="137" alt="image" src="https://github.com/user-attachments/assets/c6673d8d-8230-4685-809c-15828f603b63" /> <br>
+
+Like this <br>
+<img width="444" height="137" alt="image" src="https://github.com/user-attachments/assets/d2d323ab-d39d-4c50-ad7b-4b87ef4428e9" /> <br>
+
+**How to get Wizzy to analyze your talent**
+Visit Wizzy <br>
+<img width="366" height="191" alt="image" src="https://github.com/user-attachments/assets/c32a455e-f593-4586-b58d-79e3db0b1bb6" /> <br>
+
+You'll see the self explanatory tables, GL! <br>
