@@ -25,7 +25,7 @@ and **clic**king **the pop up to enter** <br>
 
 ## Villagers (and where to find them)
 There are 8 villagers each with their own distinct role to help travelers in need
-- [Wizzy](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/edit/main/README.md#L38)
+- [Wizzy](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md#L38)
 - Orlo
 - Goober
 - Frohp
