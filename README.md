@@ -27,15 +27,34 @@ and **clic**king **the pop up to enter** <br>
 There are 8 villagers each with their own distinct role to help travelers in need
 
 - Wizzy the talented wizard <br>
-Can be found in Wizzy's Magical Tower<br>
+Can be found flying near Wizzy's Magical Tower <br>
 <img width="467" height="563" alt="Screenshot from 2026-10-26 07-33-46" src="https://github.com/user-attachments/assets/054a095f-611b-4f55-b25e-480e4277ae6a" />
 <img width="268" height="563" alt="Screenshot from 2026-10-26 07-18-48" src="https://github.com/user-attachments/assets/bf251770-7a00-4275-a498-9c2bddfcb6b6" />
 
 
-- Orlo the Timekeeper
-- Goober the Gold Hoarder
-- Frohp the Shopkeeper
-- Rary the Wise Rat
-- Piqy the Swifty
-- Shick the Observant
-- Ract the Blue Collar
+- Orlo the Timekeeper <br>
+Can be found on top of Orlo's Hourglass <br>
+
+
+- Goober the Gold Hoarder <br>
+Can be found working at Gobber's Bank <br>
+
+
+- Frohp the Shopkeeper <br>
+Can be found hopping around Frohp's Swamp Shop <br>
+
+
+- Rary the Wise Rat <br>
+Can be found reading in Rary's Library <br>
+
+
+- Piqy the Swifty <br>
+Can be found hanging in Quest Mail <br>
+
+
+- Shick the Observant <br>
+Can be found lurking near Daily Report <br>
+
+
+- Ract the Blue Collar <br>
+Can be found thinkering in Ract's Factory <br>
