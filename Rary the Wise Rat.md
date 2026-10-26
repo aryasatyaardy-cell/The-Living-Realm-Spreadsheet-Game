@@ -1,5 +1,6 @@
 # Rary the Wise Rat
 She help traveler by keeping important notes in his library, I primarily use this to hold my watchlist and readlist <br>
+
 Can be found **NOT** chewing books in Rary's Library <br>
 <img width="338" height="356" alt="image" src="https://github.com/user-attachments/assets/1008ae29-d3b6-4853-a735-72738bf2a9b5" />
 <img width="336" height="356" alt="image" src="https://github.com/user-attachments/assets/2f93d3e4-e208-49ac-b6be-b02054569071" /> <br>
