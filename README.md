@@ -189,6 +189,8 @@ Can be found hopping around Frohp's Swamp Shop <br>
 Visit her dwelling in the lake (you might get wet) <br>
 <img width="1908" height="970" alt="Visit Frohp" src="https://github.com/user-attachments/assets/0abffbba-33ab-48df-bcb0-61111dcb7215" /> <br>
 
+
+
 ## Rary the Wise Rat
 She help traveler by keeping important notes in his library, I primarily use this to hold my watchlist and readlist <br>
 Can be found **NOT** chewing books in Rary's Library <br>
