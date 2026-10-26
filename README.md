@@ -23,48 +23,7 @@ Here, Travelers can **visit villagers** in their structure **by clicking the nam
 and **clic**king **the pop up to enter** <br>
 <img width="376" height="105" alt="image" src="https://github.com/user-attachments/assets/0bc8c65f-b8f1-4b55-978c-ecb11aa20708" />
 
-## Villagers (and where to find them)
-There are 8 villagers each with their own distinct role to help travelers in need <br>
-
-
-
-- **Frohp** the Shopkeeper <br>
-Can be found hopping around Frohp's Swamp Shop <br>
-<img width="287" height="296" alt="image" src="https://github.com/user-attachments/assets/ff561ef3-8bd0-4318-8cda-f2e167467fe7" />
-<img width="427" height="296" alt="image" src="https://github.com/user-attachments/assets/8ce0d680-94ce-4ef8-9da6-27d35407ba20" /> <br>
-<br>
-
-- **Rary** the Wise Rat <br>
-Can be found **NOT** chewing books in Rary's Library <br>
-<img width="338" height="356" alt="image" src="https://github.com/user-attachments/assets/1008ae29-d3b6-4853-a735-72738bf2a9b5" />
-<img width="336" height="356" alt="image" src="https://github.com/user-attachments/assets/2f93d3e4-e208-49ac-b6be-b02054569071" /> <br>
-<br>
-
-- **Piqy** the Swifty <br>
-Can be found hanging in Quest Mail <br>
-<img width="341" height="347" alt="image" src="https://github.com/user-attachments/assets/d2ed61f0-70d8-4c3d-bac0-82051a8c8a6b" />
-<img width="304" height="347" alt="image" src="https://github.com/user-attachments/assets/84026428-7e71-41fd-bdaf-0da39bc8e7a4" /> <br>
-<br>
-
-- **Shick** the Observant <br>
-Can be found lurking near Daily Report <br>
-<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/fed2fc23-431b-47c7-aab3-8c000690d1e1" />
-<img width="421" height="409" alt="image" src="https://github.com/user-attachments/assets/750fb939-c6bf-46f3-bca4-72eb0bdad6ce" /> <br>
-<br>
-
-- **Ract** the Blue Collar <br>
-Can be found thinkering in Ract's Factory <br>
-<img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
-<img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
-<br>
-
 ## What does the Villager do
-- Goober
-- Frohp
-- Rary
-- Piqy
-- Shick
-- Ract
 
 ## Wizzy the Talented Wizard
 He help traveler by managing and analysing their talent <br>
@@ -134,6 +93,7 @@ You use this talent every now and then, and can use it on command reliably in ac
 - <img width="189" height="29" alt="image" src="https://github.com/user-attachments/assets/7714b06f-22f7-4f23-9c59-dc6eb5bc0bbd" /> <br>
 This talent got rusty after not being used for a period of time or the inability to perform this talent for any reason <br>
 
+## How to use his service
 ### How to add talents <br>
 Visit Wizzy <br>
 <img width="1908" height="970" alt="Visit Wizy" src="https://github.com/user-attachments/assets/dac197a0-01be-4adc-bebb-eeddb7fa8ab6" /> <br>
@@ -169,6 +129,7 @@ Can be found on top of Orlo's Hourglass <br>
 <img width="422" height="548" alt="Screenshot from 2026-10-26 07-31-52" src="https://github.com/user-attachments/assets/343aeecc-4111-4b28-9b48-543a294f27f6" /><br>
 <br>
 
+## How to use his service
 Visit Orlo <br>
 <img width="1908" height="970" alt="Visit Orlo" src="https://github.com/user-attachments/assets/a9dfa4e1-255b-4190-b77a-3d10de51b18c" /> <br>
 
@@ -183,4 +144,55 @@ He help travelers by managing their gold expenses <br>
 Can be found working at Gobber's Bank <br>
 <img width="515" height="450" alt="image" src="https://github.com/user-attachments/assets/ddf075dc-7bd1-4fda-807b-2851092203aa" />
 <img width="425" height="450" alt="image" src="https://github.com/user-attachments/assets/251ed0fa-76a7-4f3e-9ea7-7f740987aebc" /> <br>
+<br>
+
+## How to use his service
+Visit Goober <br>
+<img width="1908" height="970" alt="Visit Goober" src="https://github.com/user-attachments/assets/c75260fa-a09d-41df-89e1-a5a427b09820" /> <br>
+
+He will greet you with your expenses each month across 12-month <br>
+Here you can also ask him to visit his vault where he keep your gold save <br>
+<img width="1908" height="970" alt="Visit vault" src="https://github.com/user-attachments/assets/bdce71df-c0e5-4d75-b1a0-de596223b909" /> <br>
+
+In his vault, you can add your Gold spent or looted (income) by following this steps <br>
+<br>
+Choose the date of transaction <br>
+<img width="1908" height="970" alt="Choose the date" src="https://github.com/user-attachments/assets/b60628cb-0794-48a4-b46f-da32db8a600e" /> <br>
+Choose the month of transaction <br>
+<img width="1908" height="970" alt="Choose the month" src="https://github.com/user-attachments/assets/223bed00-346f-41fc-b5ae-c5698ad0695e" /> <br>
+Choose wether you spent your gold or you loot someone's gold <br>
+<img width="1908" height="970" alt="Choose looted" src="https://github.com/user-attachments/assets/3e1f49d6-3b64-47c9-bdfc-cca95da98c94" /> <br>
+Choose the transaction type, is it in cash or digital transatcion? <br>
+<img width="1908" height="970" alt="Add nominal" src="https://github.com/user-attachments/assets/73ce6ec8-3e21-4d72-858c-32ded7c852b0" /> <br>
+
+### If your currency doesn't match, follow this steps
+
+- **Frohp** the Shopkeeper <br>
+Can be found hopping around Frohp's Swamp Shop <br>
+<img width="287" height="296" alt="image" src="https://github.com/user-attachments/assets/ff561ef3-8bd0-4318-8cda-f2e167467fe7" />
+<img width="427" height="296" alt="image" src="https://github.com/user-attachments/assets/8ce0d680-94ce-4ef8-9da6-27d35407ba20" /> <br>
+<br>
+
+- **Rary** the Wise Rat <br>
+Can be found **NOT** chewing books in Rary's Library <br>
+<img width="338" height="356" alt="image" src="https://github.com/user-attachments/assets/1008ae29-d3b6-4853-a735-72738bf2a9b5" />
+<img width="336" height="356" alt="image" src="https://github.com/user-attachments/assets/2f93d3e4-e208-49ac-b6be-b02054569071" /> <br>
+<br>
+
+- **Piqy** the Swifty <br>
+Can be found hanging in Quest Mail <br>
+<img width="341" height="347" alt="image" src="https://github.com/user-attachments/assets/d2ed61f0-70d8-4c3d-bac0-82051a8c8a6b" />
+<img width="304" height="347" alt="image" src="https://github.com/user-attachments/assets/84026428-7e71-41fd-bdaf-0da39bc8e7a4" /> <br>
+<br>
+
+- **Shick** the Observant <br>
+Can be found lurking near Daily Report <br>
+<img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/fed2fc23-431b-47c7-aab3-8c000690d1e1" />
+<img width="421" height="409" alt="image" src="https://github.com/user-attachments/assets/750fb939-c6bf-46f3-bca4-72eb0bdad6ce" /> <br>
+<br>
+
+- **Ract** the Blue Collar <br>
+Can be found thinkering in Ract's Factory <br>
+<img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/15e35752-de01-4a3a-9bb7-407d8288aaeb" />
+<img width="288" height="253" alt="image" src="https://github.com/user-attachments/assets/78569be4-80f1-42c8-9094-98e14629185e" /> <br>
 <br>
