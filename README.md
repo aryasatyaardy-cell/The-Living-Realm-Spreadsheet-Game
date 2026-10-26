@@ -168,6 +168,14 @@ Choose the transaction type, is it in cash or digital transatcion? <br>
 ### If your currency doesn't match, follow this steps
 In his vault, press `CTRL + A` <br>
 
+Then click on `Format` <br>
+<img width="1908" height="970" alt="Search for currency" src="https://github.com/user-attachments/assets/e55b5122-3bb1-482b-80fb-cf42f4514331" /> <br>
+Click number <br>
+<img width="1908" height="970" alt="Search for currency (1)" src="https://github.com/user-attachments/assets/dbcb7c6a-3c8e-4952-b22d-f8a12d481f91" /> <br>
+If you can't find your currency, click custom currency <br>
+<img width="1908" height="970" alt="Search for currency (2)" src="https://github.com/user-attachments/assets/811b0616-9bab-427a-a42a-b1602b514bbe" /> <br>
+Search for your currency, select it, and click apply <br>
+![Uploading Search for currency (3).png…]() <br>
 
 - **Frohp** the Shopkeeper <br>
 Can be found hopping around Frohp's Swamp Shop <br>
