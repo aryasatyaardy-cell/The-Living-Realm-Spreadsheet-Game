@@ -23,6 +23,7 @@ Frohp help you manage your wishlist, keeping track of them and comparing them to
 10 customizable habit that you can tailor to suit you best, Shick analyse how many good habit you've done across 12-month, plotted on every single day in a year <br>
 - To do list and Project tracker
 They help traveler by keeping tracks of project and quest to do, distinguished by urgencies and have deadlines plotted with separate projects in one place so you can visit it easier <br>
+- Also small lore to explore if you can find it ;)
 
 ## Tutorial
 A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village <br>
