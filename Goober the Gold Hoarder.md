@@ -38,4 +38,10 @@ Search for your currency, select it, and click apply <br>
 <img width="1908" height="970" alt="Search for currency (3)" src="https://github.com/user-attachments/assets/73e71c7b-62b4-4597-99ad-85686c84a3ec" /> <br>
 Repeat this step on the summary tab when you visit him in his front desk <br>
 
+## Saving Goal (Update)
+Goober now offer saving goal!<br>
+Tell him how much you want to save and he will tell you how much you need until you reach your goal! <br>
+<img width="1908" height="970" alt="Saving goal" src="https://github.com/user-attachments/assets/063d730c-c0d2-4021-b309-59ba584d9c5f" /> <br>
+<img width="1908" height="970" alt="Saving goal (1)" src="https://github.com/user-attachments/assets/842eef8b-9856-4baa-a969-ee23668bd169" /> <br>
+
 [Go back to README](https://github.com/aryasatyaardy-cell/The-Living-Realm-Spreadsheet-Game/blob/main/README.md)
