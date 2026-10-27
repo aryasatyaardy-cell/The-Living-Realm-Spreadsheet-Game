@@ -25,6 +25,24 @@ Frohp help you manage your wishlist, keeping track of them and comparing them to
 They help traveler by keeping tracks of project and quest to do, distinguished by urgencies and have deadlines plotted with separate projects in one place so you can visit it easier <br>
 - Also small lore to explore if you can find it ;)
 
+## Lore
+It's an RPG, ofc there's lore behind this game, follow this clue to start it <br>
+"Hanged a picture of smiles no more, stare long enough for it to pull you"
+"The higher you push, the lower it pull"
+
+GL FINDING IT!
+(ps* finding clues may or may not lead to **story mode**)
+
+<details>
+<summary>Stuck? Open for hints</summary>
+
+1. The village has a place for the one who came before you.
+2. Your room has something worth staring at.
+3. Take a good look at who is in the picture. Click the one who seems to be in charge.
+4. If you fall asleep, you may not wake up where you expect.
+
+</details>
+
 ## Your Journey, Your Rules
 The Living Realm is an open world RPG based on YOUR life, as it says, tailor this game to your lifestyle, goal, endings or stuff that you want to improve, create characters that suits you, redecorate the village and much more possibility await! <br>
 (exercise rearanging stuff with formula with cautions cus if you move somehting to the wrong place, it breaks) <br>
