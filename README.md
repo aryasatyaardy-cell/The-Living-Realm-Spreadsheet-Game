@@ -25,7 +25,7 @@ Frohp help you manage your wishlist, keeping track of them and comparing them to
 They help traveler by keeping tracks of project and quest to do, distinguished by urgencies and have deadlines plotted with separate projects in one place so you can visit it easier <br>
 - Also small lore to explore if you can find it ;)
 
-## Lore
+## Lore (WIP)
 It's an RPG, ofc there's lore behind this game, follow this clue to start it <br>
 "Hanged a picture of smiles no more, stare long enough for it to pull you"
 "The higher you push, the lower it pull"
