@@ -36,10 +36,11 @@ GL FINDING IT!
 <details>
 <summary>Stuck? Open for hints</summary>
 
-1. The village has a place for the one who came before you.
-2. Your room has something worth staring at.
-3. Take a good look at who is in the picture. Click the one who seems to be in charge.
-4. If you fall asleep, you may not wake up where you expect.
+1. The village has a place for the one who came before you, at the lowest of flora
+2. Your room has something worth staring at
+3. Take a good look at who is in the picture
+4. Click the one who seems to be in charge
+5. If you fall asleep, you may not wake up where you expect
 
 </details>
 
