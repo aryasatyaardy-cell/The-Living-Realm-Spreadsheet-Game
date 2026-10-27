@@ -25,6 +25,10 @@ Frohp help you manage your wishlist, keeping track of them and comparing them to
 They help traveler by keeping tracks of project and quest to do, distinguished by urgencies and have deadlines plotted with separate projects in one place so you can visit it easier <br>
 - Also small lore to explore if you can find it ;)
 
+## Your Journey, Your Rules
+The Living Realm is an open world RPG based on YOUR life, as it says, tailor this game to your lifestyle, goal, endings or stuff that you want to improve, create characters that suits you, redecorate the village and much more possibility await! <br>
+(exercise rearanging stuff with formula with cautions cus if you move somehting to the wrong place, it breaks) <br>
+
 ## Tutorial
 A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village <br>
 ### Follow this link if you're a newcomers <br>
@@ -79,3 +83,16 @@ Click their face to see their tutorial <br>
 
 - Lary <br>
 [<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4abc1275-d86b-42dd-bb39-1185695de2bf" />](https://docs.google.com/spreadsheets/d/1LW2s4WVMXVvzl2_L3-PlMxWsnM0G1zYoqsWt15QVgsI/edit?usp=sharing) <br>
+
+## Build With
+- Google SpreadSheets
+- SpreadSheets formula and function with no added script
+- Custom formatting and visual design entirely drawn by hand (I've tried converter and none work)
+- Love from Asta
+
+## Credits
+Created by Asta on [Instagram](https://www.instagram.com/asta_does_stuff/)
+
+Designed and developed as a personal life-gamification project, combining RPG-inspired worldbuilding with practical tools for self-development, organization, and progress tracking. <br>
+
+_The realm is yours to explore. Your story is yours to write._
