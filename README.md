@@ -27,11 +27,11 @@ They help traveler by keeping tracks of project and quest to do, distinguished b
 
 ## Lore (WIP)
 It's an RPG, ofc there's lore behind this game, follow this clue to start it <br>
-"Hanged a picture of smiles no more, stare long enough for it to pull you"
-"The higher you push, the lower it pull"
+"Hanged a picture of smiles no more, stare long enough for it to pull you" <br>
+"The higher you push, the lower it pull" <br>
 
 GL FINDING IT! <br>
-(ps* finding clues may or may not lead to **story mode**)
+(ps* finding clues may or may lead to **story mode**)
 
 <details>
 <summary>Stuck? Open for hints</summary>
@@ -108,6 +108,9 @@ Click their face to see their tutorial <br>
 - SpreadSheets formula and function with no added script
 - Custom formatting and visual design entirely drawn by hand (I've tried converter and none work)
 - Love from Asta
+
+Curiosity is not a sin, but do exercise with caution as the story mode is full of depiction that might make some traveler uncomfortable <br>
+Exploring this part is at your own choice and I did not take an account on the result of your action <br>
 
 ## Credits
 Created by Asta on [Instagram](https://www.instagram.com/asta_does_stuff/)
