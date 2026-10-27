@@ -1,14 +1,28 @@
-# The-Living-Realm-Spreadsheet-Game
-An RPG game where you visit villagers, report your daily life, customize your avatar, and much more!
+# The Living Realm: Spreadsheet Game
+Explore your potential, develop your talents, manage your gold, complete quest, endings determined by every single choice you made <br>
+The living Realm is a game made entirely in Google Spreadsheet with no script nor js <br>
+Made spesifically for travelers and adventurers who wanted to track their life, self improvement and support their life <br>
 
-## What you can do
-- Analyze your talent (Wizzy's service) 
-- Mark important date on calendar (Orlo's service)
-- Record your spending (Goober's service)
-- Wishlist items and get it calculated if you can purchase it or if not, how much dept you'd be in (Frohp's service)
-- 12-month daily habit tracker (Shick's service)
-- To do list, categorized by urgency and completion lvl (Piqy's service)
-- Project tracker to see how much in each percentage progress, finished, or pendingwith your money 
+## This game offers
+- Talent management 
+Wizzy analyse your talents in real life, each with different categories and expertise that reflect your ability on certain talent <br>
+There are 6 talent type <br>
+  - Physical
+  - Artistic
+  - Mental
+  - Special
+  - Life
+  - Academic
+- Calendar
+Use this to mark important dates <br>
+- Gold flow log
+Any treasure or money you looted in real life? Goober help you keep track on every single coins, show summary across 12-month and tell you how many gold you have left <br>
+- Wishlist management
+Frohp help you manage your wishlist, keeping track of them and comparing them to your gold, distinguish each item by urgencies, and monitor on what you can afford or how much debt you'd be if you insisting on buying that item <br>
+- Habit tracker
+10 customizable habit that you can tailor to suit you best, Shick analyse how many good habit you've done across 12-month, plotted on every single day in a year <br>
+- To do list and Project tracker
+They help traveler by keeping tracks of project and quest to do, distinguished by urgencies and have deadlines plotted with separate projects in one place so you can visit it easier <br>
 
 ## Tutorial
 A thousand years ago, a traveler who needed help to rebuild their life visited the Sheet village <br>
