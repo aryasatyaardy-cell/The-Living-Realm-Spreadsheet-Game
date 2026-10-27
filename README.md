@@ -30,7 +30,7 @@ It's an RPG, ofc there's lore behind this game, follow this clue to start it <br
 "Hanged a picture of smiles no more, stare long enough for it to pull you"
 "The higher you push, the lower it pull"
 
-GL FINDING IT!
+GL FINDING IT! <br>
 (ps* finding clues may or may not lead to **story mode**)
 
 <details>
