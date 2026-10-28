@@ -25,6 +25,27 @@ Frohp help you manage your wishlist, keeping track of them and comparing them to
 They help traveler by keeping tracks of project and quest to do, distinguished by urgencies and have deadlines plotted with separate projects in one place so you can visit it easier <br>
 - Also small lore to explore if you can find it ;)
 
+## Control
+- Main app
+Duplicate the document first so you can edit it <br>
+On village map, click on the building's name and press the opened pop up to enter, then just fill out your real life stuff in it so they can record it <br>
+Each villager have different flexibility in terms of duplicating their page <br>
+  - Wizzy's talent manager can't be copy and pasted to have more slots because a function scan for exact height and width, and if you really need to have more space/slot..... I suggest you sign up for guinnes...
+  - Orlo's calendar can be changed every year, just find a template or change the year, its up to you, tho I will update this repo every year (cus I also need to update mine) to change the calendar
+  - Goober's gold vault can be copy and pasted vertically, never horizontally and never change the gold summary page
+  - Frohp's item slot can be copy and pasted vertically, never horizontally and never change column A-V in row 1-26 , and column W-AI in row  1-10
+  - Shick's  habit tracker... I doubt you need more dates cus it already have slots vor every single day of the year, and also you can't add more habits as Shich won't track it ( he will forget)
+  - PiqyShick's quest letter can be copy and pasted to add more slots but only vertically, never horizontally, and don't change column A-Q in row 1-25
+  - Rary's book is the most flexible as there's no function embeded in it, you can copy and paste it horizontaly or verticaly
+  - Ract's machines can be copy and pasted vertically, never horizontally and don't change column A-N in row 1-18 and column Q-T in row 6-13. I strongly suggest you duplicate line 35-50
+ 
+- Tutorial app
+It's the tutorial... same control like main app but you don't need to duplicate the document cus Lary only want you to listen first <br>
+
+- Story mode
+Any underlined text can be pressed, your choice matter and will result in different action, there's 2 endings for now, 1 secret ending, and 3 chapter <br>
+Do check the story chart if you want spoiler (not reccomend) <br>
+
 ## Lore (WIP)
 It's an RPG, ofc there's lore behind this game, follow this clue to start it <br>
 "Hanged a picture of smiles no more, stare long enough for it to pull you" <br>
