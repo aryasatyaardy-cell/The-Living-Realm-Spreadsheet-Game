@@ -31,7 +31,8 @@ It's an RPG, ofc there's lore behind this game, follow this clue to start it <br
 "The higher you push, the lower it pull" <br>
 
 GL FINDING IT! <br>
-(ps* finding clues may or may lead to **story mode**)
+(ps* finding clues may or may lead to **story mode** special) <br>
+also, the only finished chapter is 1-3, I'm planning on 9 chapters (after I finish highschool probs)
 
 <details>
 <summary>Stuck? Open for hints</summary>
